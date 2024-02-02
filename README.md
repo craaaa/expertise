@@ -5,6 +5,8 @@ This repository contains code for the paper Prompting invokes expert-like downwa
 Data were obtained from [van Hoef (2022)](https://osf.io/vdka2/?view_only=ac6c78793a354a1f95da6c36b5ac6163) and [Parkhi et al. (2012)](https://www.kaggle.com/datasets/zippyz/cats-and-dogs-breeds-classification-oxford-dataset?resource=download). We extract a subset of data from the Cats And Dogs dataset.
 
 ## Replication
+Requirements: `OpenAI`, `pandas`
+
 First, obtain a list of stimuli files to be tested. The stimuli files should be in `data/`. Running `scripts/list_files.py` should create a file `scripts/stimuli_to_test.txt` containing all files to be tested.
 
 ```
