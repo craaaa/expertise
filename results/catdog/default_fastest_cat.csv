@@ -1,0 +1,1101 @@
+category,stimulus,preamble,prompt,response_no,response,is_subordinate,contains_basic,is_basic,preamble_type,prompt_type
+cat,Abyssinian_206,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Abyssinian_8,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Abyssinian_132,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, cabinet.",False,True,True,default,fastest
+cat,Abyssinian_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,Abyssinian_37,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, plush toy.",False,True,True,default,fastest
+cat,Abyssinian_15,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Abyssinian_159,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, snow.",False,True,True,default,fastest
+cat,Abyssinian_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Orange cat.,False,True,True,default,fastest
+cat,Abyssinian_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, window",False,True,True,default,fastest
+cat,Abyssinian_103,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_33,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Spotted cat.,False,True,True,default,fastest
+cat,Bengal_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, containers",False,True,True,default,fastest
+cat,Bengal_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, box.",False,True,True,default,fastest
+cat,Bengal_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, sink.",False,True,True,default,fastest
+cat,Bengal_162,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_83,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, bedroom",False,True,True,default,fastest
+cat,Bengal_94,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Tabby cat.,False,True,True,default,fastest
+cat,Bengal_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_126,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, leash.",False,True,True,default,fastest
+cat,Birman_139,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Birman_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, box.",False,True,True,default,fastest
+cat,Birman_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Birman_82,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Birman_22,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Birman_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Birman_114,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Birman_27,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Birman_169,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Birman_93,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, map.",False,True,True,default,fastest
+cat,Bombay_19,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Black cat.,False,True,True,default,fastest
+cat,Bombay_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Black cat.,False,True,True,default,fastest
+cat,Bombay_160,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Black cat.,False,True,True,default,fastest
+cat,Bombay_63,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Black cat.,False,True,True,default,fastest
+cat,Bombay_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Black cat.,False,True,True,default,fastest
+cat,Bombay_171,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Black cat.,False,True,True,default,fastest
+cat,Bombay_178,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Black cat.,False,True,True,default,fastest
+cat,Bombay_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Black cat.,False,True,True,default,fastest
+cat,Bombay_62,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Black cat.,False,True,True,default,fastest
+cat,Bombay_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Black cat.,False,True,True,default,fastest
+cat,British_Shorthair_38,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Snowy cat.,False,True,True,default,fastest
+cat,British_Shorthair_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, scratching post.",False,True,True,default,fastest
+cat,British_Shorthair_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_274,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, ball.",False,True,True,default,fastest
+cat,British_Shorthair_71,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,British_Shorthair_181,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,British_Shorthair_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,British_Shorthair_86,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, sofa",False,True,True,default,fastest
+cat,British_Shorthair_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_193,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, grass",False,True,True,default,fastest
+cat,Egyptian_Mau_207,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_57,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Sleeping cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_128,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_155,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_149,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_48,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Kitten, chair.",False,False,True,default,fastest
+cat,Egyptian_Mau_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Spotted cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_6,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,Maine_Coon_269,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Orange cat.,False,True,True,default,fastest
+cat,Maine_Coon_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Orange cat.,False,True,True,default,fastest
+cat,Maine_Coon_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_68,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,Maine_Coon_44,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, stool.",False,True,True,default,fastest
+cat,Maine_Coon_46,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_54,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,White cat.,False,True,True,default,fastest
+cat,Maine_Coon_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat outdoors.,False,True,True,default,fastest
+cat,Maine_Coon_176,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, keyboard.",False,True,True,default,fastest
+cat,Ragdoll_165,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Ragdoll_64,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, basket.",False,True,True,default,fastest
+cat,Ragdoll_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,Ragdoll_106,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Kitten, hands.",False,False,True,default,fastest
+cat,Ragdoll_161,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Kitten,False,False,True,default,fastest
+cat,Ragdoll_130,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Two cats.,False,True,True,default,fastest
+cat,Ragdoll_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Ragdoll cat.,True,True,False,default,fastest
+cat,Ragdoll_150,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,Ragdoll_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, keyboard.",False,True,True,default,fastest
+cat,Russian_Blue_35,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,Russian_Blue_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Grey cat.,False,True,True,default,fastest
+cat,Russian_Blue_209,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, basket.",False,True,True,default,fastest
+cat,Russian_Blue_43,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, flowers.",False,True,True,default,fastest
+cat,Russian_Blue_67,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Gray kitten.,False,False,True,default,fastest
+cat,Russian_Blue_215,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,"Cat, bed.",False,True,True,default,fastest
+cat,Russian_Blue_32,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Gray cat.,False,True,True,default,fastest
+cat,Russian_Blue_112,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Gray cat.,False,True,True,default,fastest
+cat,Russian_Blue_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Gray cat.,False,True,True,default,fastest
+cat,Siamese_174,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_137,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_31,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_101,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese kitten.,True,False,False,default,fastest
+cat,Siamese_76,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_49,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_59,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat sunbathing.,False,True,True,default,fastest
+cat,Siamese_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_111,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese kitten.,True,True,False,default,fastest
+cat,Siamese_125,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Siamese cat.,True,True,False,default,fastest
+cat,Sphynx_228,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_131,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_197,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_88,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat playing.,False,True,True,default,fastest
+cat,Sphynx_247,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Sphynx cat.,True,True,False,default,fastest
+cat,Abyssinian_206,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat's face.,False,True,True,default,fastest
+cat,Abyssinian_8,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Abyssinian_132,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, cabinet.",False,True,True,default,fastest
+cat,Abyssinian_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Abyssinian_37,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, plush toy.",False,True,True,default,fastest
+cat,Abyssinian_15,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Abyssinian_159,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, snow.",False,True,True,default,fastest
+cat,Abyssinian_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Orange cat.,False,True,True,default,fastest
+cat,Abyssinian_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, window.",False,True,True,default,fastest
+cat,Abyssinian_103,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_33,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Bengal cat.,True,True,False,default,fastest
+cat,Bengal_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, containers.",False,True,True,default,fastest
+cat,Bengal_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, box.",False,True,True,default,fastest
+cat,Bengal_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, sink.",False,True,True,default,fastest
+cat,Bengal_162,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_83,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, bed.",False,True,True,default,fastest
+cat,Bengal_94,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Bengal_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_126,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, leash.",False,True,True,default,fastest
+cat,Birman_139,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat.,True,True,False,default,fastest
+cat,Birman_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, box.",False,True,True,default,fastest
+cat,Birman_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Birman_82,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat,True,True,False,default,fastest
+cat,Birman_22,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat.,True,True,False,default,fastest
+cat,Birman_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat.,True,True,False,default,fastest
+cat,Birman_114,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat,True,True,False,default,fastest
+cat,Birman_27,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Birman_169,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat.,True,True,False,default,fastest
+cat,Birman_93,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, map.",False,True,True,default,fastest
+cat,Bombay_19,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Black cat.,False,True,True,default,fastest
+cat,Bombay_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Black cat.,False,True,True,default,fastest
+cat,Bombay_160,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Black cat.,False,True,True,default,fastest
+cat,Bombay_63,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Black cat.,False,True,True,default,fastest
+cat,Bombay_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Black cat.,False,True,True,default,fastest
+cat,Bombay_171,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Black cat.,False,True,True,default,fastest
+cat,Bombay_178,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Black cat.,False,True,True,default,fastest
+cat,Bombay_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Black cat.,False,True,True,default,fastest
+cat,Bombay_62,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Black cat.,False,True,True,default,fastest
+cat,Bombay_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Black cat.,False,True,True,default,fastest
+cat,British_Shorthair_38,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Snowy cat.,False,True,True,default,fastest
+cat,British_Shorthair_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, scratching post.",False,True,True,default,fastest
+cat,British_Shorthair_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,British_Shorthair_274,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, ball.",False,True,True,default,fastest
+cat,British_Shorthair_71,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,British_Shorthair_181,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,British_Shorthair_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,British_Shorthair_86,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, couch.",False,True,True,default,fastest
+cat,British_Shorthair_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,British_Shorthair_193,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, grass.",False,True,True,default,fastest
+cat,Egyptian_Mau_207,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_57,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Sleeping cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_128,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_155,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_149,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_48,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Kitten, chair",False,False,True,default,fastest
+cat,Egyptian_Mau_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_6,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Maine_Coon_269,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Orange cat.,False,True,True,default,fastest
+cat,Maine_Coon_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Maine_Coon_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Maine_Coon_68,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Maine_Coon_44,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, curtains.",False,True,True,default,fastest
+cat,Maine_Coon_46,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Maine_Coon_54,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,White cat.,False,True,True,default,fastest
+cat,Maine_Coon_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Maine_Coon_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Maine_Coon_176,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, keyboard.",False,True,True,default,fastest
+cat,Ragdoll_165,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat.,False,True,True,default,fastest
+cat,Ragdoll_64,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, basket.",False,True,True,default,fastest
+cat,Ragdoll_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Ragdoll_106,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Kitten, hands",False,False,True,default,fastest
+cat,Ragdoll_161,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Kitten,False,False,True,default,fastest
+cat,Ragdoll_130,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cats, bed",False,True,True,default,fastest
+cat,Ragdoll_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Ragdoll_150,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Ragdoll_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, keyboard.",False,True,True,default,fastest
+cat,Russian_Blue_35,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Russian_Blue_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Russian_Blue_209,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Russian_Blue_43,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, flowers.",False,True,True,default,fastest
+cat,Russian_Blue_67,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Gray kitten.,False,False,True,default,fastest
+cat,Russian_Blue_215,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, bed.",False,True,True,default,fastest
+cat,Russian_Blue_32,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Gray cat.,False,True,True,default,fastest
+cat,Russian_Blue_112,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Russian_Blue_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, leaves.",False,True,True,default,fastest
+cat,Siamese_174,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_137,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat,True,True,False,default,fastest
+cat,Siamese_31,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_101,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_76,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_49,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_59,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat sunbathing.,False,True,True,default,fastest
+cat,Siamese_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_111,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese kitten,True,False,False,default,fastest
+cat,Siamese_125,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Siamese cat,True,True,False,default,fastest
+cat,Sphynx_228,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Sphynx cat,True,True,False,default,fastest
+cat,Sphynx_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Sphynx cat,True,True,False,default,fastest
+cat,Sphynx_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_131,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Sphynx cat,True,True,False,default,fastest
+cat,Sphynx_197,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Sphynx cat,True,True,False,default,fastest
+cat,Sphynx_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Sphynx cat,True,True,False,default,fastest
+cat,Sphynx_88,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,"Cat, toy.",False,True,True,default,fastest
+cat,Sphynx_247,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Sphynx cat.,True,True,False,default,fastest
+cat,Abyssinian_206,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat.,False,True,True,default,fastest
+cat,Abyssinian_8,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Abyssinian_132,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, cabinet.",False,True,True,default,fastest
+cat,Abyssinian_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Abyssinian_37,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, blanket.",False,True,True,default,fastest
+cat,Abyssinian_15,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Abyssinian_159,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, snow.",False,True,True,default,fastest
+cat,Abyssinian_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Orange cat.,False,True,True,default,fastest
+cat,Abyssinian_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat. Window.,False,True,True,default,fastest
+cat,Abyssinian_103,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_33,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Bengal cat.,True,True,False,default,fastest
+cat,Bengal_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, containers",False,True,True,default,fastest
+cat,Bengal_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, box.",False,True,True,default,fastest
+cat,Bengal_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, sink.",False,True,True,default,fastest
+cat,Bengal_162,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_83,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, bed.",False,True,True,default,fastest
+cat,Bengal_94,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Bengal_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_126,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, leash.",False,True,True,default,fastest
+cat,Birman_139,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Birman_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, box.",False,True,True,default,fastest
+cat,Birman_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat.,False,True,True,default,fastest
+cat,Birman_82,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Birman_22,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Birman_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Birman_114,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Birman_27,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Birman_169,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat.,False,True,True,default,fastest
+cat,Birman_93,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, map.",False,True,True,default,fastest
+cat,Bombay_19,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Black cat.,False,True,True,default,fastest
+cat,Bombay_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Black cat.,False,True,True,default,fastest
+cat,Bombay_160,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Black cat.,False,True,True,default,fastest
+cat,Bombay_63,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Black cat.,False,True,True,default,fastest
+cat,Bombay_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Black cat.,False,True,True,default,fastest
+cat,Bombay_171,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Black cat.,False,True,True,default,fastest
+cat,Bombay_178,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Black cat.,False,True,True,default,fastest
+cat,Bombay_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Black cat.,False,True,True,default,fastest
+cat,Bombay_62,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Black cat,False,True,True,default,fastest
+cat,Bombay_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Black cat.,False,True,True,default,fastest
+cat,British_Shorthair_38,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, snow.",False,True,True,default,fastest
+cat,British_Shorthair_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, scratcher.",False,True,True,default,fastest
+cat,British_Shorthair_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,British_Shorthair_274,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, ball.",False,True,True,default,fastest
+cat,British_Shorthair_71,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,British_Shorthair_181,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,British_Shorthair_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,British_Shorthair_86,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, sofa",False,True,True,default,fastest
+cat,British_Shorthair_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,British_Shorthair_193,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, grass",False,True,True,default,fastest
+cat,Egyptian_Mau_207,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_57,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Sleeping cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_128,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_155,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_149,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_48,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Kitten, chair.",False,False,True,default,fastest
+cat,Egyptian_Mau_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_6,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Maine_Coon_269,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Orange cat.,False,True,True,default,fastest
+cat,Maine_Coon_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Maine_Coon_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_68,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Maine_Coon_44,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, stool.",False,True,True,default,fastest
+cat,Maine_Coon_46,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Maine_Coon_54,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,White cat.,False,True,True,default,fastest
+cat,Maine_Coon_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Maine_Coon_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat outdoors,False,True,True,default,fastest
+cat,Maine_Coon_176,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, keyboard.",False,True,True,default,fastest
+cat,Ragdoll_165,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat.,False,True,True,default,fastest
+cat,Ragdoll_64,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, basket.",False,True,True,default,fastest
+cat,Ragdoll_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Ragdoll_106,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Kitten, hands.",False,False,True,default,fastest
+cat,Ragdoll_161,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Kitten,False,False,True,default,fastest
+cat,Ragdoll_130,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cats, bed.",False,True,True,default,fastest
+cat,Ragdoll_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Ragdoll_150,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Ragdoll_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, keyboard.",False,True,True,default,fastest
+cat,Russian_Blue_35,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Russian_Blue_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Russian_Blue_209,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Russian_Blue_43,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, flowers.",False,True,True,default,fastest
+cat,Russian_Blue_67,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Gray kitten,False,False,True,default,fastest
+cat,Russian_Blue_215,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, bed.",False,True,True,default,fastest
+cat,Russian_Blue_32,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Grey cat.,False,True,True,default,fastest
+cat,Russian_Blue_112,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Russian_Blue_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, leaves",False,True,True,default,fastest
+cat,Siamese_174,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_137,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_31,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_101,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_76,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_49,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_59,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat sunbathing.,False,True,True,default,fastest
+cat,Siamese_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_111,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese kitten.,True,False,False,default,fastest
+cat,Siamese_125,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Siamese cat.,True,True,False,default,fastest
+cat,Sphynx_228,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_131,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_197,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_88,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,"Cat, toy.",False,True,True,default,fastest
+cat,Sphynx_247,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Sphynx cat.,True,True,False,default,fastest
+cat,Abyssinian_206,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Abyssinian_8,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Abyssinian_132,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, cabinet.",False,True,True,default,fastest
+cat,Abyssinian_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Abyssinian_37,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, plush toy.",False,True,True,default,fastest
+cat,Abyssinian_15,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Abyssinian_159,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, snow.",False,True,True,default,fastest
+cat,Abyssinian_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Orange cat.,False,True,True,default,fastest
+cat,Abyssinian_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, window.",False,True,True,default,fastest
+cat,Abyssinian_103,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_33,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Bengal_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, containers",False,True,True,default,fastest
+cat,Bengal_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, box.",False,True,True,default,fastest
+cat,Bengal_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, sink.",False,True,True,default,fastest
+cat,Bengal_162,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_83,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, bed.",False,True,True,default,fastest
+cat,Bengal_94,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat,False,True,True,default,fastest
+cat,Bengal_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_126,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, leash.",False,True,True,default,fastest
+cat,Birman_139,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Birman_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, box.",False,True,True,default,fastest
+cat,Birman_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Birman_82,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Birman_22,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Birman_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Birman_114,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Birman_27,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Birman_169,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Birman_93,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, Map",False,True,True,default,fastest
+cat,Bombay_19,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Black cat.,False,True,True,default,fastest
+cat,Bombay_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Black cat.,False,True,True,default,fastest
+cat,Bombay_160,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Black cat.,False,True,True,default,fastest
+cat,Bombay_63,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Black cat.,False,True,True,default,fastest
+cat,Bombay_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Black cat.,False,True,True,default,fastest
+cat,Bombay_171,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Black cat.,False,True,True,default,fastest
+cat,Bombay_178,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Black cat.,False,True,True,default,fastest
+cat,Bombay_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Black cat.,False,True,True,default,fastest
+cat,Bombay_62,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Black cat.,False,True,True,default,fastest
+cat,Bombay_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Black cat.,False,True,True,default,fastest
+cat,British_Shorthair_38,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Snowy cat.,False,True,True,default,fastest
+cat,British_Shorthair_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, Scratching Post",False,True,True,default,fastest
+cat,British_Shorthair_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_274,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, ball.",False,True,True,default,fastest
+cat,British_Shorthair_71,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_181,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_86,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, couch",False,True,True,default,fastest
+cat,British_Shorthair_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_193,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, grass",False,True,True,default,fastest
+cat,Egyptian_Mau_207,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_57,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Sleeping cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_128,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_155,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_149,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_48,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Kitten, chair.",False,False,True,default,fastest
+cat,Egyptian_Mau_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_6,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_269,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Orange cat.,False,True,True,default,fastest
+cat,Maine_Coon_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_68,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_44,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, stool.",False,True,True,default,fastest
+cat,Maine_Coon_46,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_54,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,White cat.,False,True,True,default,fastest
+cat,Maine_Coon_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, outdoors.",False,True,True,default,fastest
+cat,Maine_Coon_176,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, keyboard.",False,True,True,default,fastest
+cat,Ragdoll_165,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Ragdoll_64,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, basket.",False,True,True,default,fastest
+cat,Ragdoll_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Ragdoll_106,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Kitten, hands.",False,False,True,default,fastest
+cat,Ragdoll_161,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Kitten,False,False,True,default,fastest
+cat,Ragdoll_130,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cats, bed.",False,True,True,default,fastest
+cat,Ragdoll_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Ragdoll_150,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Ragdoll_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, keyboard.",False,True,True,default,fastest
+cat,Russian_Blue_35,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Russian_Blue_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Russian_Blue_209,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, laundry",False,True,True,default,fastest
+cat,Russian_Blue_43,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, flowers.",False,True,True,default,fastest
+cat,Russian_Blue_67,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Gray kitten.,False,False,True,default,fastest
+cat,Russian_Blue_215,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, bed.",False,True,True,default,fastest
+cat,Russian_Blue_32,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Gray cat.,False,True,True,default,fastest
+cat,Russian_Blue_112,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Gray cat.,False,True,True,default,fastest
+cat,Russian_Blue_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Gray cat.,False,True,True,default,fastest
+cat,Siamese_174,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_137,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_31,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_101,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese kitten.,True,False,False,default,fastest
+cat,Siamese_76,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_49,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_59,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, sunlight.",False,True,True,default,fastest
+cat,Siamese_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_111,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese kitten.,True,False,False,default,fastest
+cat,Siamese_125,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Siamese cat.,True,True,False,default,fastest
+cat,Sphynx_228,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_131,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_197,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_88,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,"Cat, toy.",False,True,True,default,fastest
+cat,Sphynx_247,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Sphynx cat.,True,True,False,default,fastest
+cat,Abyssinian_206,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Abyssinian_8,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Abyssinian_132,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, cabinet",False,True,True,default,fastest
+cat,Abyssinian_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Abyssinian_37,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, bed",False,True,True,default,fastest
+cat,Abyssinian_15,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Abyssinian_159,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, snow.",False,True,True,default,fastest
+cat,Abyssinian_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Abyssinian_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, window",False,True,True,default,fastest
+cat,Abyssinian_103,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_33,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Bengal_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, containers",False,True,True,default,fastest
+cat,Bengal_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, box.",False,True,True,default,fastest
+cat,Bengal_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, sink.",False,True,True,default,fastest
+cat,Bengal_162,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_83,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Bengal_94,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Bengal_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_126,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, leash.",False,True,True,default,fastest
+cat,Birman_139,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Birman_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, box.",False,True,True,default,fastest
+cat,Birman_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Birman_82,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Birman_22,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, grass",False,True,True,default,fastest
+cat,Birman_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Birman_114,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Birman_27,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Birman_169,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Birman_93,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, map.",False,True,True,default,fastest
+cat,Bombay_19,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Black cat.,False,True,True,default,fastest
+cat,Bombay_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Black cat.,False,True,True,default,fastest
+cat,Bombay_160,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Black cat.,False,True,True,default,fastest
+cat,Bombay_63,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Black cat.,False,True,True,default,fastest
+cat,Bombay_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Black cat.,False,True,True,default,fastest
+cat,Bombay_171,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Black cat.,False,True,True,default,fastest
+cat,Bombay_178,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Black cat.,False,True,True,default,fastest
+cat,Bombay_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Bombay_62,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, couch",False,True,True,default,fastest
+cat,Bombay_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Black cat.,False,True,True,default,fastest
+cat,British_Shorthair_38,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, snow.",False,True,True,default,fastest
+cat,British_Shorthair_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, scratcher.",False,True,True,default,fastest
+cat,British_Shorthair_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,British_Shorthair_274,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, ball.",False,True,True,default,fastest
+cat,British_Shorthair_71,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,British_Shorthair_181,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,British_Shorthair_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,British_Shorthair_86,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, couch",False,True,True,default,fastest
+cat,British_Shorthair_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,British_Shorthair_193,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, grass",False,True,True,default,fastest
+cat,Egyptian_Mau_207,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_57,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Sleeping cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_128,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_155,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_149,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_48,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, chair",False,True,True,default,fastest
+cat,Egyptian_Mau_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_6,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Maine_Coon_269,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Maine_Coon_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Maine_Coon_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Maine_Coon_68,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Maine_Coon_44,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, stool.",False,True,True,default,fastest
+cat,Maine_Coon_46,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Maine_Coon_54,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,White cat.,False,True,True,default,fastest
+cat,Maine_Coon_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Maine_Coon_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat outdoors.,False,True,True,default,fastest
+cat,Maine_Coon_176,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, keyboard.",False,True,True,default,fastest
+cat,Ragdoll_165,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Ragdoll_64,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, basket.",False,True,True,default,fastest
+cat,Ragdoll_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Ragdoll_106,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, hands",False,True,True,default,fastest
+cat,Ragdoll_161,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Ragdoll_130,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, bed.",False,True,True,default,fastest
+cat,Ragdoll_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Ragdoll_150,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Ragdoll_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, keyboard.",False,True,True,default,fastest
+cat,Russian_Blue_35,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Russian_Blue_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Russian_Blue_209,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Russian_Blue_43,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, flowers.",False,True,True,default,fastest
+cat,Russian_Blue_67,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Gray kitten.,False,False,True,default,fastest
+cat,Russian_Blue_215,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, bed",False,True,True,default,fastest
+cat,Russian_Blue_32,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Russian_Blue_112,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Russian_Blue_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, leaves",False,True,True,default,fastest
+cat,Siamese_174,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Siamese_137,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, plants",False,True,True,default,fastest
+cat,Siamese_31,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_101,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, plants",False,True,True,default,fastest
+cat,Siamese_76,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_49,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, indoors.",False,True,True,default,fastest
+cat,Siamese_59,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat sunbathing.,False,True,True,default,fastest
+cat,Siamese_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Siamese_111,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Siamese kitten.,True,False,False,default,fastest
+cat,Siamese_125,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Sphynx_228,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_131,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, couch",False,True,True,default,fastest
+cat,Sphynx_197,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_88,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,"Cat, toy",False,True,True,default,fastest
+cat,Sphynx_247,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Sphynx cat.,True,True,False,default,fastest
+cat,Abyssinian_206,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat's face.,False,True,True,default,fastest
+cat,Abyssinian_8,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Abyssinian_132,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, cabinet.",False,True,True,default,fastest
+cat,Abyssinian_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Abyssinian_37,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, blanket.",False,True,True,default,fastest
+cat,Abyssinian_15,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Abyssinian_159,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, snow.",False,True,True,default,fastest
+cat,Abyssinian_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Orange cat.,False,True,True,default,fastest
+cat,Abyssinian_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, window.",False,True,True,default,fastest
+cat,Abyssinian_103,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_33,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Brown cat,False,True,True,default,fastest
+cat,Bengal_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, containers.",False,True,True,default,fastest
+cat,Bengal_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, box.",False,True,True,default,fastest
+cat,Bengal_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, sink.",False,True,True,default,fastest
+cat,Bengal_162,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_83,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, bed.",False,True,True,default,fastest
+cat,Bengal_94,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Bengal_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_126,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, leash.",False,True,True,default,fastest
+cat,Birman_139,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Birman_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, box.",False,True,True,default,fastest
+cat,Birman_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Birman_82,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Ragdoll cat.,True,True,False,default,fastest
+cat,Birman_22,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Birman_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Birman_114,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Birman_27,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Birman_169,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Birman_93,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, map.",False,True,True,default,fastest
+cat,Bombay_19,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Black cat.,False,True,True,default,fastest
+cat,Bombay_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Black cat.,False,True,True,default,fastest
+cat,Bombay_160,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Black cat.,False,True,True,default,fastest
+cat,Bombay_63,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Black cat.,False,True,True,default,fastest
+cat,Bombay_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Black cat.,False,True,True,default,fastest
+cat,Bombay_171,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Black cat.,False,True,True,default,fastest
+cat,Bombay_178,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Black cat.,False,True,True,default,fastest
+cat,Bombay_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Black cat.,False,True,True,default,fastest
+cat,Bombay_62,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Black cat,False,True,True,default,fastest
+cat,Bombay_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Black cat.,False,True,True,default,fastest
+cat,British_Shorthair_38,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Gray cat.,False,True,True,default,fastest
+cat,British_Shorthair_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, scratcher.",False,True,True,default,fastest
+cat,British_Shorthair_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,British_Shorthair_274,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, ball.",False,True,True,default,fastest
+cat,British_Shorthair_71,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,British_Shorthair_181,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,British_Shorthair_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,British_Shorthair_86,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, couch.",False,True,True,default,fastest
+cat,British_Shorthair_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat lounging.,False,True,True,default,fastest
+cat,British_Shorthair_193,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, Grass",False,True,True,default,fastest
+cat,Egyptian_Mau_207,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_57,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Sleeping cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_128,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_155,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_149,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_48,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Kitten, Chair",False,False,True,default,fastest
+cat,Egyptian_Mau_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_6,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Maine_Coon_269,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Orange cat.,False,True,True,default,fastest
+cat,Maine_Coon_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Orange cat.,False,True,True,default,fastest
+cat,Maine_Coon_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Maine_Coon_68,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Maine_Coon_44,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, stool.",False,True,True,default,fastest
+cat,Maine_Coon_46,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Maine_Coon_54,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,White cat.,False,True,True,default,fastest
+cat,Maine_Coon_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Maine_Coon_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat outdoors,False,True,True,default,fastest
+cat,Maine_Coon_176,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, keyboard.",False,True,True,default,fastest
+cat,Ragdoll_165,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat smiling,False,True,True,default,fastest
+cat,Ragdoll_64,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, basket.",False,True,True,default,fastest
+cat,Ragdoll_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Ragdoll_106,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Kitten, hands.",False,False,True,default,fastest
+cat,Ragdoll_161,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,White kitten,False,False,True,default,fastest
+cat,Ragdoll_130,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Two cats,False,True,True,default,fastest
+cat,Ragdoll_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Ragdoll cat.,True,True,False,default,fastest
+cat,Ragdoll_150,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Ragdoll_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, keyboard.",False,True,True,default,fastest
+cat,Russian_Blue_35,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Russian_Blue_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Grey cat,False,True,True,default,fastest
+cat,Russian_Blue_209,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Russian_Blue_43,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, flowers.",False,True,True,default,fastest
+cat,Russian_Blue_67,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Gray kitten,False,False,True,default,fastest
+cat,Russian_Blue_215,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,"Cat, bed.",False,True,True,default,fastest
+cat,Russian_Blue_32,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Grey cat.,False,True,True,default,fastest
+cat,Russian_Blue_112,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Gray cat,False,True,True,default,fastest
+cat,Russian_Blue_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Grey cat.,False,True,True,default,fastest
+cat,Siamese_174,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_137,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_31,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_101,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_76,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_49,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_59,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat sunbathing.,False,True,True,default,fastest
+cat,Siamese_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_111,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese kitten.,True,False,False,default,fastest
+cat,Siamese_125,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Siamese cat.,True,True,False,default,fastest
+cat,Sphynx_228,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_131,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_197,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_88,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat playing,False,True,True,default,fastest
+cat,Sphynx_247,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Sphynx cat.,True,True,False,default,fastest
+cat,Abyssinian_206,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat.,False,True,True,default,fastest
+cat,Abyssinian_8,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Abyssinian_132,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, cabinet.",False,True,True,default,fastest
+cat,Abyssinian_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Abyssinian_37,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, plush toy",False,True,True,default,fastest
+cat,Abyssinian_15,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Abyssinian_159,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, snow.",False,True,True,default,fastest
+cat,Abyssinian_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Orange cat.,False,True,True,default,fastest
+cat,Abyssinian_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat. Window.,False,True,True,default,fastest
+cat,Abyssinian_103,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_33,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Bengal cat,True,True,False,default,fastest
+cat,Bengal_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, containers.",False,True,True,default,fastest
+cat,Bengal_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, box.",False,True,True,default,fastest
+cat,Bengal_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, sink.",False,True,True,default,fastest
+cat,Bengal_162,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_83,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, bedroom.",False,True,True,default,fastest
+cat,Bengal_94,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Bengal_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_126,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, leash.",False,True,True,default,fastest
+cat,Birman_139,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Birman_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, box.",False,True,True,default,fastest
+cat,Birman_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat.,False,True,True,default,fastest
+cat,Birman_82,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Ragdoll cat,True,True,False,default,fastest
+cat,Birman_22,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Birman_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Birman_114,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Birman_27,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Ragdoll cat,True,True,False,default,fastest
+cat,Birman_169,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Birman_93,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, map.",False,True,True,default,fastest
+cat,Bombay_19,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Black cat.,False,True,True,default,fastest
+cat,Bombay_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Black cat.,False,True,True,default,fastest
+cat,Bombay_160,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Black cat.,False,True,True,default,fastest
+cat,Bombay_63,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Black cat.,False,True,True,default,fastest
+cat,Bombay_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Black cat.,False,True,True,default,fastest
+cat,Bombay_171,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Black cat.,False,True,True,default,fastest
+cat,Bombay_178,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Black cat.,False,True,True,default,fastest
+cat,Bombay_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Black cat.,False,True,True,default,fastest
+cat,Bombay_62,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Black cat.,False,True,True,default,fastest
+cat,Bombay_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Black cat.,False,True,True,default,fastest
+cat,British_Shorthair_38,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Gray cat.,False,True,True,default,fastest
+cat,British_Shorthair_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, Scratching post",False,True,True,default,fastest
+cat,British_Shorthair_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,British_Shorthair_274,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, ball.",False,True,True,default,fastest
+cat,British_Shorthair_71,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,British_Shorthair_181,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,British Shorthair cat.,False,True,True,default,fastest
+cat,British_Shorthair_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,British_Shorthair_86,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, couch",False,True,True,default,fastest
+cat,British_Shorthair_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,British Shorthair cat.,False,True,True,default,fastest
+cat,British_Shorthair_193,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, grass.",False,True,True,default,fastest
+cat,Egyptian_Mau_207,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_57,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Sleeping cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_128,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_155,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_149,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_48,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Kitten, chair",False,False,True,default,fastest
+cat,Egyptian_Mau_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_6,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Egyptian Mau,True,False,False,default,fastest
+cat,Maine_Coon_269,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Orange cat.,False,True,True,default,fastest
+cat,Maine_Coon_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Orange cat.,False,True,True,default,fastest
+cat,Maine_Coon_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_68,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Maine_Coon_44,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, curtains.",False,True,True,default,fastest
+cat,Maine_Coon_46,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Maine_Coon_54,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,White cat.,False,True,True,default,fastest
+cat,Maine_Coon_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Maine Coon,True,False,False,default,fastest
+cat,Maine_Coon_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat outdoors.,False,True,True,default,fastest
+cat,Maine_Coon_176,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, keyboard.",False,True,True,default,fastest
+cat,Ragdoll_165,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat.,False,True,True,default,fastest
+cat,Ragdoll_64,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Ragdoll cat,True,True,False,default,fastest
+cat,Ragdoll_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Ragdoll_106,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Kitten, hands",False,False,True,default,fastest
+cat,Ragdoll_161,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Kitten,False,False,True,default,fastest
+cat,Ragdoll_130,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cats, bed",False,True,True,default,fastest
+cat,Ragdoll_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Ragdoll cat,True,True,False,default,fastest
+cat,Ragdoll_150,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Ragdoll_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, keyboard.",False,True,True,default,fastest
+cat,Russian_Blue_35,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Russian_Blue_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Grey cat.,False,True,True,default,fastest
+cat,Russian_Blue_209,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Russian_Blue_43,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, flowers.",False,True,True,default,fastest
+cat,Russian_Blue_67,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Gray kitten.,False,False,True,default,fastest
+cat,Russian_Blue_215,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,"Cat, bed.",False,True,True,default,fastest
+cat,Russian_Blue_32,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Grey cat.,False,True,True,default,fastest
+cat,Russian_Blue_112,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Gray cat.,False,True,True,default,fastest
+cat,Russian_Blue_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Gray cat.,False,True,True,default,fastest
+cat,Siamese_174,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Siamese_137,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Siamese_31,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Siamese_101,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Siamese_76,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Siamese_49,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Siamese_59,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat lounging.,False,True,True,default,fastest
+cat,Siamese_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Siamese_111,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese kitten,True,False,False,default,fastest
+cat,Siamese_125,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Siamese cat,True,True,False,default,fastest
+cat,Sphynx_228,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_131,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Sphynx cat,True,True,False,default,fastest
+cat,Sphynx_197,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_88,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat playing.,False,True,True,default,fastest
+cat,Sphynx_247,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Sphynx cat.,True,True,False,default,fastest
+cat,Abyssinian_206,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat's face.,False,True,True,default,fastest
+cat,Abyssinian_8,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Abyssinian_132,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, cabinet.",False,True,True,default,fastest
+cat,Abyssinian_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Abyssinian_37,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, blanket.",False,True,True,default,fastest
+cat,Abyssinian_15,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Abyssinian_159,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, snow.",False,True,True,default,fastest
+cat,Abyssinian_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Abyssinian_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, window.",False,True,True,default,fastest
+cat,Abyssinian_103,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_33,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Bengal_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, containers.",False,True,True,default,fastest
+cat,Bengal_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, box.",False,True,True,default,fastest
+cat,Bengal_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, sink.",False,True,True,default,fastest
+cat,Bengal_162,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_83,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, bedroom.",False,True,True,default,fastest
+cat,Bengal_94,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Bengal_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_126,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, leash.",False,True,True,default,fastest
+cat,Birman_139,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese cat.,True,True,False,default,fastest
+cat,Birman_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, box.",False,True,True,default,fastest
+cat,Birman_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Birman_82,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese cat.,True,True,False,default,fastest
+cat,Birman_22,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, grass.",False,True,True,default,fastest
+cat,Birman_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Birman_114,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese cat.,True,True,False,default,fastest
+cat,Birman_27,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Birman_169,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Birman_93,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, map.",False,True,True,default,fastest
+cat,Bombay_19,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Black cat,False,True,True,default,fastest
+cat,Bombay_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Black cat,False,True,True,default,fastest
+cat,Bombay_160,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Black cat,False,True,True,default,fastest
+cat,Bombay_63,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Black cat,False,True,True,default,fastest
+cat,Bombay_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Black cat,False,True,True,default,fastest
+cat,Bombay_171,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Black cat,False,True,True,default,fastest
+cat,Bombay_178,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Black cat.,False,True,True,default,fastest
+cat,Bombay_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Black cat,False,True,True,default,fastest
+cat,Bombay_62,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Black cat,False,True,True,default,fastest
+cat,Bombay_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Black cat,False,True,True,default,fastest
+cat,British_Shorthair_38,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, snow.",False,True,True,default,fastest
+cat,British_Shorthair_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, scratcher.",False,True,True,default,fastest
+cat,British_Shorthair_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_274,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, ball.",False,True,True,default,fastest
+cat,British_Shorthair_71,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,British_Shorthair_181,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,British_Shorthair_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,British_Shorthair_86,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, couch.",False,True,True,default,fastest
+cat,British_Shorthair_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_193,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, grass.",False,True,True,default,fastest
+cat,Egyptian_Mau_207,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_57,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Sleeping cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_128,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_155,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_149,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_48,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Kitten, chair.",False,False,True,default,fastest
+cat,Egyptian_Mau_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_6,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Maine_Coon_269,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Orange cat,False,True,True,default,fastest
+cat,Maine_Coon_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Maine_Coon_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_68,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Maine_Coon_44,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, stool.",False,True,True,default,fastest
+cat,Maine_Coon_46,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_54,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,White cat,False,True,True,default,fastest
+cat,Maine_Coon_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, nature.",False,True,True,default,fastest
+cat,Maine_Coon_176,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, keyboard.",False,True,True,default,fastest
+cat,Ragdoll_165,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Ragdoll_64,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, basket.",False,True,True,default,fastest
+cat,Ragdoll_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Ragdoll_106,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Kitten, hands.",False,False,True,default,fastest
+cat,Ragdoll_161,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Kitten,False,False,True,default,fastest
+cat,Ragdoll_130,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, bed.",False,True,True,default,fastest
+cat,Ragdoll_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Ragdoll_150,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Ragdoll_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, keyboard.",False,True,True,default,fastest
+cat,Russian_Blue_35,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Russian_Blue_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Russian_Blue_209,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, basket.",False,True,True,default,fastest
+cat,Russian_Blue_43,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, flowers.",False,True,True,default,fastest
+cat,Russian_Blue_67,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Gray kitten,False,False,True,default,fastest
+cat,Russian_Blue_215,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, bed.",False,True,True,default,fastest
+cat,Russian_Blue_32,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Gray cat,False,True,True,default,fastest
+cat,Russian_Blue_112,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Russian_Blue_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,"Cat, leaves.",False,True,True,default,fastest
+cat,Siamese_174,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_137,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_31,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_101,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_76,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_49,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_59,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat sunbathing.,False,True,True,default,fastest
+cat,Siamese_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_111,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese kitten.,True,False,False,default,fastest
+cat,Siamese_125,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Siamese cat.,True,True,False,default,fastest
+cat,Sphynx_228,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_131,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Sphynx cat,True,True,False,default,fastest
+cat,Sphynx_197,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Sphynx cat,True,True,False,default,fastest
+cat,Sphynx_88,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat playing,False,True,True,default,fastest
+cat,Sphynx_247,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Sphynx cat.,True,True,False,default,fastest
+cat,Abyssinian_206,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat's face.,False,True,True,default,fastest
+cat,Abyssinian_8,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Abyssinian_132,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, cabinet.",False,True,True,default,fastest
+cat,Abyssinian_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Abyssinian_37,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, plush toy.",False,True,True,default,fastest
+cat,Abyssinian_15,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Abyssinian_159,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, snow.",False,True,True,default,fastest
+cat,Abyssinian_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Orange cat.,False,True,True,default,fastest
+cat,Abyssinian_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, windowsill.",False,True,True,default,fastest
+cat,Abyssinian_103,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_33,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Bengal_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, containers",False,True,True,default,fastest
+cat,Bengal_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, box.",False,True,True,default,fastest
+cat,Bengal_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, sink.",False,True,True,default,fastest
+cat,Bengal_162,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_83,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, bed",False,True,True,default,fastest
+cat,Bengal_94,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Bengal_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_126,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, leash.",False,True,True,default,fastest
+cat,Birman_139,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Birman_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, box.",False,True,True,default,fastest
+cat,Birman_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat.,False,True,True,default,fastest
+cat,Birman_82,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Birman_22,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Birman_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Birman_114,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Birman_27,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Birman_169,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Birman_93,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, map.",False,True,True,default,fastest
+cat,Bombay_19,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Black cat.,False,True,True,default,fastest
+cat,Bombay_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Black cat.,False,True,True,default,fastest
+cat,Bombay_160,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Black cat.,False,True,True,default,fastest
+cat,Bombay_63,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Black cat.,False,True,True,default,fastest
+cat,Bombay_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Black cat.,False,True,True,default,fastest
+cat,Bombay_171,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Black cat.,False,True,True,default,fastest
+cat,Bombay_178,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Black cat.,False,True,True,default,fastest
+cat,Bombay_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Black cat.,False,True,True,default,fastest
+cat,Bombay_62,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Black cat,False,True,True,default,fastest
+cat,Bombay_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Black cat.,False,True,True,default,fastest
+cat,British_Shorthair_38,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, snow.",False,True,True,default,fastest
+cat,British_Shorthair_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, scratcher.",False,True,True,default,fastest
+cat,British_Shorthair_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,British_Shorthair_274,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, ball.",False,True,True,default,fastest
+cat,British_Shorthair_71,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,British_Shorthair_181,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,British_Shorthair_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,British_Shorthair_86,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, sofa",False,True,True,default,fastest
+cat,British_Shorthair_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,British_Shorthair_193,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, grass",False,True,True,default,fastest
+cat,Egyptian_Mau_207,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_57,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Sleeping cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_128,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_155,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_149,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_48,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Kitten, chair.",False,False,True,default,fastest
+cat,Egyptian_Mau_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Egyptian_Mau_6,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Maine_Coon_269,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Orange cat.,False,True,True,default,fastest
+cat,Maine_Coon_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Maine_Coon_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Maine_Coon_68,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Maine_Coon_44,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, stool.",False,True,True,default,fastest
+cat,Maine_Coon_46,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Maine_Coon_54,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,White cat.,False,True,True,default,fastest
+cat,Maine_Coon_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Maine_Coon_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat outdoors,False,True,True,default,fastest
+cat,Maine_Coon_176,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, keyboard.",False,True,True,default,fastest
+cat,Ragdoll_165,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat.,False,True,True,default,fastest
+cat,Ragdoll_64,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, basket.",False,True,True,default,fastest
+cat,Ragdoll_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Ragdoll_106,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Kitten, hands.",False,False,True,default,fastest
+cat,Ragdoll_161,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Kitten,False,False,True,default,fastest
+cat,Ragdoll_130,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cats, bed.",False,True,True,default,fastest
+cat,Ragdoll_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Ragdoll cat.,True,True,False,default,fastest
+cat,Ragdoll_150,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Ragdoll_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, keyboard.",False,True,True,default,fastest
+cat,Russian_Blue_35,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Russian_Blue_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Russian_Blue_209,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, basket.",False,True,True,default,fastest
+cat,Russian_Blue_43,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, flowers.",False,True,True,default,fastest
+cat,Russian_Blue_67,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Gray kitten,False,False,True,default,fastest
+cat,Russian_Blue_215,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, bed",False,True,True,default,fastest
+cat,Russian_Blue_32,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Grey cat.,False,True,True,default,fastest
+cat,Russian_Blue_112,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Russian_Blue_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, deck",False,True,True,default,fastest
+cat,Siamese_174,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_137,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_31,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_101,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_76,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_49,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_59,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat sunbathing.,False,True,True,default,fastest
+cat,Siamese_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_111,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese kitten.,True,False,False,default,fastest
+cat,Siamese_125,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Siamese cat.,True,True,False,default,fastest
+cat,Sphynx_228,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_131,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_197,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_88,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,"Cat, toy",False,True,True,default,fastest
+cat,Sphynx_247,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Sphynx cat.,True,True,False,default,fastest
+cat,Abyssinian_206,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Abyssinian_8,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Abyssinian_132,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, cabinet.",False,True,True,default,fastest
+cat,Abyssinian_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Abyssinian_37,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, plush toy.",False,True,True,default,fastest
+cat,Abyssinian_15,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Abyssinian_159,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, snow.",False,True,True,default,fastest
+cat,Abyssinian_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Orange cat.,False,True,True,default,fastest
+cat,Abyssinian_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat. Window.,False,True,True,default,fastest
+cat,Abyssinian_103,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_33,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Bengal cat.,True,True,False,default,fastest
+cat,Bengal_12,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, containers",False,True,True,default,fastest
+cat,Bengal_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, box.",False,True,True,default,fastest
+cat,Bengal_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, sink.",False,True,True,default,fastest
+cat,Bengal_162,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, couch.",False,True,True,default,fastest
+cat,Bengal_83,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, bedroom",False,True,True,default,fastest
+cat,Bengal_94,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Bengal_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, couch",False,True,True,default,fastest
+cat,Bengal_126,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, leash.",False,True,True,default,fastest
+cat,Birman_139,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Birman_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, box.",False,True,True,default,fastest
+cat,Birman_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Birman_82,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Birman_22,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Birman_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Birman_114,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Birman_27,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Birman_169,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Birman_93,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, map.",False,True,True,default,fastest
+cat,Bombay_19,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Black cat.,False,True,True,default,fastest
+cat,Bombay_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Black cat.,False,True,True,default,fastest
+cat,Bombay_160,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Black cat.,False,True,True,default,fastest
+cat,Bombay_63,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Black cat.,False,True,True,default,fastest
+cat,Bombay_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Black cat.,False,True,True,default,fastest
+cat,Bombay_171,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Black cat.,False,True,True,default,fastest
+cat,Bombay_178,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Black cat.,False,True,True,default,fastest
+cat,Bombay_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Black cat.,False,True,True,default,fastest
+cat,Bombay_62,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Black cat.,False,True,True,default,fastest
+cat,Bombay_108,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Black cat.,False,True,True,default,fastest
+cat,British_Shorthair_38,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, snow.",False,True,True,default,fastest
+cat,British_Shorthair_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_156,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_274,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, ball.",False,True,True,default,fastest
+cat,British_Shorthair_71,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_181,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_86,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, couch",False,True,True,default,fastest
+cat,British_Shorthair_116,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,British_Shorthair_193,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_145,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, grass",False,True,True,default,fastest
+cat,Egyptian_Mau_207,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_57,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Sleeping cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_128,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_155,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_149,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_48,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Kitten, chair.",False,False,True,default,fastest
+cat,Egyptian_Mau_2,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Egyptian_Mau_6,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_269,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Orange cat.,False,True,True,default,fastest
+cat,Maine_Coon_195,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_68,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_44,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, stool.",False,True,True,default,fastest
+cat,Maine_Coon_46,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_54,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,White cat.,False,True,True,default,fastest
+cat,Maine_Coon_89,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Maine_Coon_87,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat outdoors.,False,True,True,default,fastest
+cat,Maine_Coon_176,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, keyboard.",False,True,True,default,fastest
+cat,Ragdoll_165,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat smiling.,False,True,True,default,fastest
+cat,Ragdoll_64,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, basket.",False,True,True,default,fastest
+cat,Ragdoll_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Ragdoll_106,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Kitten, hands.",False,False,True,default,fastest
+cat,Ragdoll_161,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Kitten,False,False,True,default,fastest
+cat,Ragdoll_130,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, bed.",False,True,True,default,fastest
+cat,Ragdoll_196,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Ragdoll_150,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Ragdoll_140,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, keyboard.",False,True,True,default,fastest
+cat,Russian_Blue_35,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Russian_Blue_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Russian_Blue_209,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, laundry",False,True,True,default,fastest
+cat,Russian_Blue_43,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, flowers.",False,True,True,default,fastest
+cat,Russian_Blue_67,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Gray kitten.,False,False,True,default,fastest
+cat,Russian_Blue_215,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, bed.",False,True,True,default,fastest
+cat,Russian_Blue_32,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Gray cat.,False,True,True,default,fastest
+cat,Russian_Blue_112,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Russian_Blue_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,"Cat, leaves",False,True,True,default,fastest
+cat,Siamese_174,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_137,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_31,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_101,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_76,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_49,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_59,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Siamese_151,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Siamese_111,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese kitten,True,False,False,default,fastest
+cat,Siamese_125,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Siamese cat.,True,True,False,default,fastest
+cat,Sphynx_228,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Sphynx cat,True,True,False,default,fastest
+cat,Sphynx_1,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_91,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_75,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_131,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Sphynx cat,True,True,False,default,fastest
+cat,Sphynx_197,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_170,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Sphynx cat.,True,True,False,default,fastest
+cat,Sphynx_92,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Sphynx cat,True,True,False,default,fastest
+cat,Sphynx_88,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat playing.,False,True,True,default,fastest
+cat,Sphynx_247,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Sphynx cat.,True,True,False,default,fastest
+cat,Russian_Blue_13,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat.,False,True,True,default,fastest
+cat,Bengal_90,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,Ragdoll_72,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_0,Cat,False,True,True,default,fastest
+cat,Russian_Blue_13,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Bengal_90,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Bengal cat.,True,True,False,default,fastest
+cat,Ragdoll_72,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_1,Cat,False,True,True,default,fastest
+cat,Russian_Blue_13,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Cat,False,True,True,default,fastest
+cat,Bengal_90,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,Bengal cat.,True,True,False,default,fastest
+cat,Ragdoll_72,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_2,White cat,False,True,True,default,fastest
+cat,Russian_Blue_13,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Bengal_90,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Ragdoll_72,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_3,Cat.,False,True,True,default,fastest
+cat,Russian_Blue_13,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Bengal_90,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Ragdoll_72,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_4,Cat,False,True,True,default,fastest
+cat,Russian_Blue_13,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Cat,False,True,True,default,fastest
+cat,Bengal_90,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,Bengal cat.,True,True,False,default,fastest
+cat,Ragdoll_72,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_5,White cat,False,True,True,default,fastest
+cat,Russian_Blue_13,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Cat,False,True,True,default,fastest
+cat,Bengal_90,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,Bengal cat,True,True,False,default,fastest
+cat,Ragdoll_72,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_6,White cat.,False,True,True,default,fastest
+cat,Russian_Blue_13,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Bengal_90,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat,False,True,True,default,fastest
+cat,Ragdoll_72,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_7,Cat.,False,True,True,default,fastest
+cat,Russian_Blue_13,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Bengal_90,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Ragdoll_72,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_8,Cat,False,True,True,default,fastest
+cat,Russian_Blue_13,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Bengal_90,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest
+cat,Ragdoll_72,You are an AI assistant.,What's in this image? Answer as quickly as possible using one or two words.,response_9,Cat.,False,True,True,default,fastest

@@ -1,0 +1,6 @@
+---
+tree: ['willow', 'elm', 'hazel', 'palm', 'sycamore', 'oak', 'spruce', 'beech', 'birch', 'ash']
+dog: ['dalmatian', 'spaniel', 'beagle', 'collie', 'dachshund', 'bulldog', 'poodle', 'labrador', 'wolfhound', 'chihuahua']
+bird: ['chicken', 'goose', 'duck', 'cockatoo', 'kingfisher', 'robin', 'macaw', 'eagle', 'toucan', 'ostrich']
+flower: ['sunflower', 'dandelion', 'rose', 'buttercup', 'orchid', 'daffodil', 'tulip', 'lotus', 'lily', 'poppy']
+cat: ['persian', 'bengal', 'sphynx', 'siamese']
