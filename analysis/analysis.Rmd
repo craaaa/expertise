@@ -1,0 +1,579 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+## Main experiment
+
+```{r}
+here::i_am("analysis/get_norms.Rmd")
+library(here)
+library(readr)
+library(stringr)
+library(purrr)
+library(testthat)
+library(tidyr)
+library(ggplot2)
+library(ggpattern)
+library(dplyr)
+library(lme4)
+library(wesanderson)
+```
+
+```{r}
+level_preamble <- function(x){
+  x <- factor(x, 
+              levels = c("default", "information", "novice", "novice_explicit",
+                         "birdexpert", "birdexpert_elaborate",  "bird_explicit", "ornithologist", 
+                         "dogexpert", "dogexpert_elaborate", "dog_explicit", "zoologist","dogbreedexpert",
+                         "treeexpert", "treeexpert_elaborate",  "tree_explicit", "arborist", 
+                         "flowerexpert", "flowerexpert_elaborate",  "flower_explicit", "botanist",
+                         "catexpert"),
+              labels = c("Default", "Information", "Novice", "Explicit",
+                         "B", "B-Verbose", "B-Explicit", "B-Scientist", 
+                         "D", "D-Verbose", "D-Explicit", "D-Scientist", "D-Breed", 
+                         "T", "T-Verbose", "T-Explicit", "T-Scientist", 
+                         "F", "F-Verbose", "F-Explicit", "F-Scientist",
+                         "Cat"))
+}
+```
+
+```{r}
+two_category_palette <- c("#000000", "#7CB9E8", "#007FFF", "#0047AB",
+                          "#fd5c63","#C60C30","#9e1b32","#611916", 
+                          "#17B169", "#018749", "#006400","#0b472a",
+                          "#e39c40","#bd7519","#a6620c","#7a4005",
+                          "#c678f0","#972ad1","#670f96","#4e0d70",
+                          "#0d7063")
+
+pal <- c("#007FFF", "#0047AB","#fd5c63","#C60C30")
+```
+
+```{r}
+bayesian_error <- function(num_basic, n, num_trials=2000, interval=95) {
+  samples <- sample(rep(c(TRUE,FALSE), times=c(num_basic, n-num_basic)),
+                    size=n * num_trials, replace=TRUE)
+  dim(samples) <- c(num_trials, n)
+  means <- sort(rowSums(samples))
+  outlier <- (100.0 - interval)/100 * num_trials /2
+  limits <- c("min"=floor(outlier)+1, "max"=num_trials-ceiling(outlier))
+  return(means[limits])
+}
+```
+
+```{r}
+default_preambles <- c("default", "information", "novice", "novice_explicit")
+bird_preambles <- c("birdexpert", "birdexpert_elaborate", "bird_explicit", "ornithologist")
+dog_preambles <- c("dogexpert", "dogexpert_elaborate", "dog_explicit", "zoologist")
+flower_preambles <- c("flowerexpert", "flowerexpert_elaborate", "flower_explicit", "botanist")
+tree_preambles <- c("treeexpert", "treeexpert_elaborate", "tree_explicit", "arborist")
+
+data_exp1 <- list.files(path = here("results", "fastest"), pattern = "\\.csv$") %>%
+  map_df(~read_csv(here("results", "fastest", .)))
+
+data_exp1 <- data_exp1 %>%
+  mutate(two_words = grepl(" ", response, fixed=TRUE),
+         is_default = (preamble_type %in% default_preambles),
+         matches_preamble = 
+           (preamble_type %in% bird_preambles & category == "Bird") |
+           (preamble_type %in% dog_preambles  & category == "Dog") |
+           (preamble_type %in% flower_preambles & category == "Flower") |
+           (preamble_type %in% tree_preambles & category == "Tree") 
+         )
+
+if(FALSE){
+  test_that("all responses are coded as either basic or subordinate", {
+    exceptions <- data_exp1 %>% 
+      group_by(stimulus, preamble_type) %>% 
+      summarise(num_basic = sum(is_basic),
+              num_subordinate = sum(is_subordinate)) %>%
+      filter((num_basic + num_subordinate) != 10) # n = 10
+    exceptions
+    expect_equal(nrow(exceptions), 0)
+  })
+  test_that("each preamble type has 10 responses for all stimuli", {
+    exceptions <- data_exp1 %>%
+      group_by(category, preamble_type) %>%
+      summarise(num_basic = sum(is_basic),
+                num_subordinate= sum(is_subordinate)) %>%
+      filter(num_basic + num_subordinate != 400)
+    expect_equal(nrow(exceptions), 0)
+  })
+}
+```
+
+Get 95% CI
+```{r}
+data_exp1 <- data_exp1 %>% 
+  group_by(category, preamble_type, matches_preamble, is_default, stimulus) %>%
+  summarise(num_basic = sum(is_basic), 
+            n=n()) %>%
+  rowwise() %>%
+  mutate(error = list(bayesian_error(num_basic, n))) %>%
+  unnest_wider(error, names_sep="_") %>%
+  ungroup()
+```
+
+Get summaries of how many basic responses per category
+```{r}
+summary_exp1 <- data_exp1 %>% 
+  group_by(category, preamble_type, matches_preamble, is_default) %>%
+  summarise(num_basic = sum(num_basic),
+            min_basic = sum(error_1),
+            max_basic = sum(error_2),
+            n = sum(n))
+```
+
+
+### Compare default results with human norms
+
+```{r}
+default_summary <- summary_exp1 %>%
+  filter(preamble_type %in% default_preambles) %>%
+  group_by(preamble_type, category) %>%
+  summarise(num_basic = sum(num_basic),
+            n=sum(n),
+            num_subordinate = n-num_basic) %>%
+  select(!n)
+
+chisq_default_dog <- chisq.test(
+  default_summary %>% 
+    filter(category == "Dog") %>% 
+    select(!category) %>%
+    tibble::column_to_rownames(., var = 'preamble_type')
+  )
+chisq_default_dog
+
+chisq_default_bird <- chisq.test(
+  default_summary %>% 
+    filter(category == "Bird") %>% 
+    select(!category) %>%
+    tibble::column_to_rownames(., var = 'preamble_type')
+  )
+chisq_default_bird
+
+chisq_default_flower <- chisq.test(
+  default_summary %>% 
+    filter(category == "Flower") %>% 
+    select(!category) %>%
+    tibble::column_to_rownames(., var = 'preamble_type')
+  )
+chisq_default_flower
+
+chisq_default_tree <- chisq.test(
+  default_summary %>% 
+    filter(category == "Tree") %>% 
+    select(!category) %>%
+    tibble::column_to_rownames(., var = 'preamble_type')
+  )
+chisq_default_tree
+
+```
+
+```{r}
+norms = read_csv(here("data","van_hoef", "Norms.csv"))
+images = data_exp1 %>% distinct(stimulus) %>% pull %>% paste(".png", sep="")
+used_norms = norms %>% filter(image %in% images)
+used_norms
+```
+
+Now get numbers for each named image.
+
+```{r}
+sums <- used_norms %>%
+  rename(altName0 = modalName,
+         altName0WordFreq = modalWordFreq,
+         altName0WordLength = modalWordLength,
+         altName0ProductionFreq = modalProductionFreq) %>%
+  rename_with(~ paste(.x,"Name", sep=""), 
+              num_range("altName",0:5)) %>%
+  pivot_longer(
+  cols = altName0Name:altName5WordLength,
+  names_to = c(NA,".value"),
+  names_pattern = "altName(.)(.+)",
+  values_drop_na = TRUE) %>%
+  group_by(image, Name) %>%
+  summarise(ProductionFreq)
+```
+
+
+```{r}
+sums %>% ungroup() %>% distinct(Name)
+basic_names <- c("tree", "flower", "flowers", "bush", "plant", "weed", "bird", "dog")
+categories <- data_exp1 %>% distinct(stimulus, category) %>%
+  select(stimulus, category) %>%
+  mutate(stimulus = paste0(stimulus,".png")) 
+
+human_results <- sums %>% 
+  left_join(categories, by = join_by(image == stimulus)) %>%
+  mutate(is_basic = Name %in% basic_names) %>%
+  group_by(is_basic, category) %>%
+  summarise(ProductionFreq = sum(ProductionFreq)) %>%
+  pivot_wider(names_from=is_basic, values_from=ProductionFreq, names_prefix = "is_basic") %>%
+  mutate(total = is_basicTRUE + is_basicFALSE,
+         pct_basic = is_basicTRUE/total) %>%
+  rename(num_basic = pct_basic) %>%
+  mutate(preamble_type = "human")
+
+```
+
+```{r}
+
+dodge <- position_dodge(width=0.9)
+summary_exp1 %>%
+  filter(is_default) %>%
+  group_by(category, preamble_type) %>%
+  summarise(num_basic = sum(num_basic)/sum(n),
+            min_basic = sum(min_basic)/sum(n),
+            max_basic = sum(max_basic)/sum(n)) %>%
+  rbind(human_results) %>%
+  mutate(preamble_type = factor(preamble_type, 
+                                levels=c("default", "information", "novice", "novice_explicit", "human"),
+                                labels=c("Default 1", "Default 2", "Default 3", "Default 4", "Human"))) %>%
+  ggplot(aes(x=category, y=num_basic, fill=preamble_type)) + geom_col(position=dodge) +
+  labs(x="Image Category", y="Percentage of Basic Responses", fill="System Prompt Type") + 
+  geom_errorbar(aes(ymin = min_basic, ymax = max_basic), width=0.2, position = dodge) +
+  theme(legend.position = "bottom") +
+  guides(fill = guide_legend(nrow = 2)) +
+  #facet_wrap(vars(factor(prompt_type, levels=c("fastest", "twowords"), labels=c("Fastest", "Two words")))) +
+  scale_y_continuous(limits=c(0,1), labels = scales::percent) +
+  scale_fill_manual(values = c("#3B9AB2", "#78B7C5", "#EBCC2A", "#E1AF00", "#000000"))
+
+ggsave(filename=here("analysis", "default_results.pdf"), device="pdf", width=6, height=4, units="in")
+```
+
+### Results
+
+```{r}
+default_preambles <- c("default", "information", "novice", "novice_explicit")
+bird_preambles <- c("birdexpert", "birdexpert_elaborate", "bird_explicit", "ornithologist")
+dog_preambles <- c("dogexpert", "dogexpert_elaborate", "dog_explicit", "zoologist")
+flower_preambles <- c("flowerexpert", "flowerexpert_elaborate", "flower_explicit", "botanist")
+tree_preambles <- c("treeexpert", "treeexpert_elaborate", "tree_explicit", "arborist")
+
+nonexpert_mentioned <- c("novice_explicit", "bird_explicit", "tree_explicit", "flower_explicit", "dog_explicit")
+expert_not_mentioned <- c("ornithologist", "zoologist", "botanist", "arborist")
+
+default_expert_baseline <- summary_exp1 %>% 
+  filter(is_default) %>%
+  mutate(matches_preamble = TRUE)
+
+summary_exp1 %>%
+  rbind(default_expert_baseline) %>%
+  mutate(nonexpert_mentioned = preamble_type %in% nonexpert_mentioned,
+         expert_not_mentioned = preamble_type %in% expert_not_mentioned,
+         type = factor(ifelse(is_default, "Default",ifelse(nonexpert_mentioned, "Image Category Mentioned", "Image Category Not Mentioned")),
+               levels=c("Default", "Image Category Mentioned","Image Category Not Mentioned")))%>%
+  group_by(type, category, matches_preamble) %>%
+  summarise(num_basic = sum(num_basic),
+            min_basic = sum(min_basic),
+            max_basic = sum(max_basic),
+            n = sum(n)) %>%
+  mutate(num_basic = num_basic/n,
+         min_basic = min_basic/n,
+         max_basic = max_basic/n) %>%
+  ggplot(aes(x=category, y=num_basic, fill = (type))) +
+  geom_col(position=position_dodge()) +
+  facet_wrap(vars(matches_preamble), labeller= as_labeller(c(`FALSE` = "Non-Expert", `TRUE` = "Expert"))) + 
+  labs(x="Category", y="Number of basic responses", fill="System Prompt Type") +
+  geom_errorbar(aes(ymin = min_basic, ymax = max_basic), width=0.2, position = dodge) +
+  theme(legend.position = "bottom",) +
+  guides(fill = guide_legend(nrow = 2)) +
+  scale_y_continuous(limits=c(0,1), labels = scales::percent) +
+  scale_fill_manual(values = c("#007FFF", "#17B169", "#d783f7"))
+
+ggsave(filename=here("analysis", "preamble_type.pdf"), device="pdf", width=6, height=4, units="in")
+```
+
+```{r}
+summary_exp1 %>%
+  mutate(pct_basic = num_basic/n,
+         min_basic = min_basic/n,
+         max_basic = max_basic/n) %>%
+  ggplot(aes(x=category, y=pct_basic, fill=preamble_type)) +
+  geom_col(position=position_dodge())+
+  labs(x="Category", y="Percentage of subordinate responses", fill="Preamble Type") +
+  theme(legend.position = "bottom") +
+    geom_errorbar(aes(ymin = min_basic, ymax = max_basic), width=0.2, position = dodge) +
+  scale_y_continuous(limits=c(0,1), labels = scales::percent) +
+  scale_fill_manual(values = two_category_palette)
+
+ggsave(filename=here("analysis", "results_by_preamble.pdf"), device="pdf", width=6, height=4, units="in")
+
+```
+
+```{r}
+mentions <- summary_exp1 %>%
+  filter(!is_default) %>%
+  mutate(nonexpert_mentioned = preamble_type %in% nonexpert_mentioned,
+         expert_not_mentioned = preamble_type %in% expert_not_mentioned,
+         type = factor(ifelse(is_default, "Default", ifelse(nonexpert_mentioned, "Image Category Mentioned", "Image Category Not Mentioned")),
+               levels=c("Default", "Image Category Mentioned","Image Category Not Mentioned"))) %>%
+  group_by(type, matches_preamble, category) %>%
+  summarise(num_basic = sum(num_basic),
+            n=sum(n),
+            num_subordinate = n-num_basic) %>%
+  ungroup()
+
+chisq_bird_notexpert <- chisq.test(mentions %>% filter(category == "Bird" & !matches_preamble) %>%
+  select(!matches_preamble & !category & !n) %>%
+  tibble::column_to_rownames(., var = 'type'))
+chisq_bird_notexpert
+
+chisq_dog_notexpert <- chisq.test(mentions %>% filter(category == "Dog" & !matches_preamble) %>%
+  select(!matches_preamble & !category & !n) %>%
+  tibble::column_to_rownames(., var = 'type'))
+chisq_dog_notexpert
+
+chisq_bird_expert <- chisq.test(mentions %>% filter(category == "Bird" & matches_preamble) %>%
+  select(!matches_preamble & !category & !n) %>%
+  tibble::column_to_rownames(., var = 'type'))
+chisq_bird_expert
+
+chisq_dog_expert <- chisq.test(mentions %>% filter(category == "Dog" & matches_preamble) %>%
+  select(!matches_preamble & !category & !n) %>%
+  tibble::column_to_rownames(., var = 'type'))
+chisq_dog_expert
+
+chisq_flower_expert <- chisq.test(mentions %>% filter(category == "Flower" & matches_preamble) %>%
+  select(!matches_preamble & !category & !n) %>%
+  tibble::column_to_rownames(., var = 'type'))
+chisq_flower_expert
+
+chisq_tree_expert <- chisq.test(mentions %>% filter(category == "Tree" & matches_preamble) %>%
+  select(!matches_preamble & !category & !n) %>%
+  tibble::column_to_rownames(., var = 'type'))
+chisq_tree_expert
+
+```
+
+
+```{r}
+summary_exp1 %>%
+  mutate(trial_type = factor(ifelse(is_default, "Default", ifelse(matches_preamble, "Expert", "Non-Expert")),
+                             levels=c("Default", "Non-Expert", "Expert", "Human")),
+         pct_basic = num_basic/n,
+         min_basic = min_basic/n,
+         max_basic = max_basic/n) %>%
+  group_by(trial_type, category) %>% 
+  summarise(pct_basic = mean(pct_basic),
+            min_basic = mean(min_basic),
+            max_basic = mean(max_basic)) %>%
+  rbind(human_results %>%
+          mutate(trial_type = factor("Human", levels=c("Default", "Non-Expert", "Expert", "Human")),
+                 pct_basic = num_basic)) %>%
+  ggplot(aes(x=category, y=pct_basic, fill=trial_type)) +
+  geom_col(position=dodge)+
+  geom_errorbar(aes(ymin = min_basic, ymax = max_basic), width=0.2, position = dodge) +
+  labs(x="Image Category", 
+       y="Percentage of Basic Responses", 
+       fill="Persona Type") +
+  theme(legend.position = "bottom") +
+  scale_y_continuous(breaks = brks, limits=c(0,1), labels = scales::percent(brks)) +
+  scale_fill_manual(values = c("#007FFF", "#0047AB", "#fd5c63", "#000000"))
+
+ggsave(filename=here("analysis", "results_simplified.pdf"), device="pdf", width=6, height=4, units="in")
+
+```
+
+```{r}
+matches_summary <- summary_exp1 %>%
+    mutate(trial_type = factor(ifelse(is_default, "Default", ifelse(matches_preamble, "Expert", "Non-Expert")))) %>%
+  group_by(trial_type, category) %>%
+  summarise(num_basic = sum(num_basic),
+            n=sum(n)) 
+
+contingency_table_matches <- matches_summary %>%
+  pivot_wider(names_from=category, values_from=num_basic) %>%
+  tibble::column_to_rownames(., var = 'trial_type')
+  
+chisq_all_preambles <- chisq.test(contingency_table_matches )
+chisq_all_preambles
+
+
+chisq_nonexpert <- chisq.test(contingency_table_matches [c('Default', 'Non-Expert'),] %>% select(!n))
+chisq_nonexpert
+
+chisq_default_expert <- chisq.test(contingency_table_matches [c('Default', 'Expert'),]  %>% select(!n))
+chisq_default_expert
+
+chisq_nonexpert_expert <- chisq.test(contingency_table_matches [c('Expert', 'Non-Expert'),]  %>% select(!n))
+chisq_nonexpert_expert
+```
+```{r}
+all_summary <- matches_summary %>%
+  mutate(num_subordinate = n - num_basic) %>%
+  select(category,trial_type, num_basic, num_subordinate) %>%
+  pivot_longer(cols = c(num_basic, num_subordinate), names_to = "type") %>% 
+  pivot_wider(names_from = trial_type, values_from = value)
+
+
+chisq_bird <- chisq.test(all_summary %>% 
+                          select(!`Non-Expert`) %>%
+                          filter(category == "Bird") %>% 
+                          select(!category) %>%
+                          tibble::column_to_rownames(., var = 'type')
+ )
+chisq_bird
+
+chisq_dog <- chisq.test(all_summary %>% 
+                          select(!`Non-Expert`) %>%
+                          filter(category == "Dog") %>% 
+                          select(!category) %>%
+                          tibble::column_to_rownames(., var = 'type')
+ )
+chisq_dog
+
+chisq_tree <- chisq.test(all_summary %>% 
+                          select(!`Non-Expert`) %>%
+                          filter(category == "Tree") %>% 
+                          select(!category) %>%
+                          tibble::column_to_rownames(., var = 'type')
+ )
+chisq_tree
+
+chisq_flower <- chisq.test(all_summary %>% 
+                          select(!`Non-Expert`) %>%
+                          filter(category == "Flower") %>% 
+                          select(!category) %>%
+                          tibble::column_to_rownames(., var = 'type')
+ )
+chisq_flower
+```
+
+```{r}
+matches_summary %>% mutate(pct_basic = num_basic/n)
+```
+
+
+## Cat/Dog experiment
+```{r}
+data_exp2 <- list.files(path = here("data", "catdog"), pattern = "\\.csv$") %>%
+  map_df(~read_csv(here("data", "catdog", .)))
+
+test_that("all responses are coded as either basic or subordinate", {
+  exceptions <- data_exp2 %>% 
+    group_by(stimulus, preamble_type) %>% 
+    summarise(num_basic = sum(is_basic),
+            num_subordinate = sum(is_subordinate)) %>%
+    filter((num_basic + num_subordinate) != 10) # n = 10
+  exceptions
+  expect_equal(nrow(exceptions), 0)
+})
+```
+
+```{r}
+
+data_exp2 <- data_exp2 %>% 
+  mutate(is_default = preamble_type %in% default_preambles,
+         matches_preamble = (preamble_type %in% dog_preambles & category == "dog") |
+           (preamble_type %in% c("catexpert") & category == "cat"))
+
+data_exp2 <- data_exp2 %>% 
+  group_by(category, preamble_type, matches_preamble, is_default, stimulus) %>%
+  summarise(num_basic = sum(is_basic), 
+            n=n()) %>%
+  rowwise() %>%
+  mutate(error = list(bayesian_error(num_basic, n))) %>%
+  unnest_wider(error, names_sep="_") %>%
+  ungroup()
+```
+
+```{r}
+summary_exp2 <- data_exp2 %>% 
+  group_by(category, preamble_type, is_default, matches_preamble) %>%
+  summarise(num_basic = sum(num_basic),
+            min_basic = sum(error_1),
+            max_basic = sum(error_2),
+            n = sum(n))
+
+```
+
+```{r}
+
+summary_exp2 %>%
+  mutate(trial_type = factor(ifelse(is_default, "Default", ifelse(matches_preamble, "Expert", "Non-Expert")),
+                             levels=c("Default", "Non-Expert", "Expert")),
+         pct_basic = num_basic/n,
+         min_basic = min_basic/n,
+         max_basic = max_basic/n) %>%
+  group_by(trial_type, category) %>% 
+  summarise(pct_basic = mean(pct_basic),
+            min_basic = mean(min_basic),
+            max_basic = mean(max_basic)) %>%
+  ggplot(aes(x=category, y=pct_basic, fill=trial_type)) +
+  geom_col(position=dodge)+
+  geom_errorbar(aes(ymin = min_basic, ymax = max_basic), width=0.2, position = dodge) +
+  labs(x="Image Category", 
+       y="Percentage of Basic Responses", 
+       fill="System Prompt Type") +
+  theme(legend.position = "bottom") +
+  scale_y_continuous(breaks = brks, limits=c(0,1), labels = scales::percent(brks)) +
+  scale_fill_manual(values = c("#007FFF", "#0047AB", "#fd5c63"))
+
+ggsave(filename=here("analysis", "results_catdog.pdf"), device="pdf", width=6, height=4, units="in")
+
+```
+
+```{r}
+matches_summary_2 <- summary_exp2 %>%
+    mutate(trial_type = factor(ifelse(is_default, "Default", ifelse(matches_preamble, "Expert", "Non-Expert")))) %>%
+  group_by(trial_type, category) %>%
+  summarise(num_basic = sum(num_basic),
+            n=sum(n)) 
+
+all_summary_2 <- matches_summary_2 %>%
+  mutate(num_subordinate = (n - num_basic)/n,
+         num_basic=num_basic/n) %>%
+  select(category,trial_type, num_basic, num_subordinate) %>%
+  pivot_longer(cols = c(num_basic, num_subordinate), names_to = "type") %>% 
+  pivot_wider(names_from = trial_type, values_from = value)
+
+```
+
+```{r}
+
+all_summary_2 %>% 
+    select(!`Non-Expert`) %>%
+    filter(category == "dog") %>% 
+    select(!category) %>%
+    tibble::column_to_rownames(., var = 'type')
+
+chisq_dog_2 <- chisq.test(all_summary_2 %>% 
+                          select(!`Expert`) %>%
+                          filter(category == "dog") %>% 
+                          select(!category) %>%
+                          tibble::column_to_rownames(., var = 'type')
+ )
+chisq_dog_2
+
+chisq_cat <- chisq.test(all_summary_2 %>% 
+                          select(!`Expert`) %>%
+                          filter(category == "cat") %>% 
+                          select(!category) %>%
+                          tibble::column_to_rownames(., var = 'type')
+ )
+chisq_cat
+
+```
+
+## True/False
+
+```{r}
+data_exp3 <- list.files(path = here("data", "truefalse"), pattern = "\\.csv$") %>%
+  map_df(~read_csv(here("data", "truefalse", .)))
+```
+
+```{r}
+f1_scores <- data_exp3 %>% group_by(category, ground_truth, prompt_type) %>%
+  mutate(not_matches = !matches) %>%
+  summarise(labelled_true = sum(ifelse(ground_truth, matches, not_matches)),
+            n = n(),
+            labelled_false = n-labelled_true) %>%
+  select(!n) %>%
+  pivot_wider(names_from = ground_truth, values_from=c(labelled_true, labelled_false), names_glue = "{ground_truth}_{.value}") %>%
+  mutate(f1 = 2*(TRUE_labelled_true) / (2*TRUE_labelled_true + FALSE_labelled_true + TRUE_labelled_false))
+  
+```
+```{r}
+```
