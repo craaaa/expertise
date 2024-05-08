@@ -1,0 +1,481 @@
+preamble	category	stimulus	first_prompt	second_prompt	first_score	second_score	prefer_first
+You are an AI assistant.	tree	palm	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.907155513763428	-7.929513454437256	True
+You are an AI assistant.	tree	birch	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.305595397949219	-8.322808265686035	True
+You are an AI assistant.	tree	willow	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.867969036102295	-7.867415904998779	False
+You are an AI assistant.	tree	willow	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.915587425231934	-7.918794631958008	True
+You are an AI assistant.	tree	palm	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.929249286651611	-7.950389862060547	True
+You are an AI assistant.	tree	birch	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.125944137573242	-8.131997108459473	True
+You are an AI assistant.	tree	hazel	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.880675315856934	-7.8914794921875	True
+You are an AI assistant.	tree	beech	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.039505004882812	-8.039827346801758	True
+You are an AI assistant.	tree	sycamore	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.911858081817627	-7.889484405517578	False
+You are an AI assistant.	tree	sycamore	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.816326141357422	-7.816178321838379	False
+You are an AI assistant.	tree	spruce	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.055340766906738	-8.071901321411133	True
+You are an AI assistant.	tree	ash	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.43526554107666	-8.453934669494629	True
+You are an AI assistant.	tree	hazel	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.772307395935059	-7.771754741668701	False
+You are an AI assistant.	tree	hazel	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.797784805297852	-7.802268981933594	True
+You are an AI assistant.	tree	oak	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.833966255187988	-7.846198081970215	True
+You are an AI assistant.	tree	oak	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.986409664154053	-8.001626968383789	True
+You are an AI assistant.	tree	sycamore	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.9512176513671875	-7.939730167388916	False
+You are an AI assistant.	tree	birch	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.159165382385254	-8.169853210449219	True
+You are an AI assistant.	tree	sycamore	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.012523651123047	-8.022090911865234	True
+You are an AI assistant.	tree	beech	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.048774719238281	-8.063660621643066	True
+You are an AI assistant.	tree	willow	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.444792747497559	-8.453727722167969	True
+You are an AI assistant.	tree	spruce	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.522387504577637	-8.543249130249023	True
+You are an AI assistant.	tree	spruce	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.144549369812012	-8.166911125183105	True
+You are an AI assistant.	tree	ash	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.065465927124023	-8.07138729095459	True
+You are an AI assistant.	tree	ash	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.869337558746338	-7.878105640411377	True
+You are an AI assistant.	tree	spruce	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.295318603515625	-8.316954612731934	True
+You are an AI assistant.	tree	oak	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.865094184875488	-7.873612403869629	True
+You are an AI assistant.	tree	oak	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.846644878387451	-7.837510108947754	False
+You are an AI assistant.	tree	elm	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.9006123542785645	-7.909425258636475	True
+You are an AI assistant.	tree	ash	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.897966384887695	-7.904323101043701	True
+You are an AI assistant.	tree	beech	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.010677337646484	-8.020989418029785	True
+You are an AI assistant.	tree	elm	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.004012107849121	-8.019732475280762	True
+You are an AI assistant.	tree	palm	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.129252433776855	-8.153107643127441	True
+You are an AI assistant.	tree	willow	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.109244346618652	-8.10743522644043	False
+You are an AI assistant.	tree	hazel	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.050331115722656	-8.056321144104004	True
+You are an AI assistant.	tree	elm	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.080904960632324	-8.096770286560059	True
+You are an AI assistant.	tree	birch	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.12387752532959	-8.137243270874023	True
+You are an AI assistant.	tree	palm	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.303047180175781	-8.325727462768555	True
+You are an AI assistant.	tree	elm	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.354456901550293	-8.341129302978516	False
+You are an AI assistant.	tree	beech	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.8573126792907715	-7.842489719390869	False
+You are an AI assistant.	flower	poppy	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.324050903320312	-8.355783462524414	True
+You are an AI assistant.	flower	rose	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.37975788116455	-8.410146713256836	True
+You are an AI assistant.	flower	lily	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.273568153381348	-8.289633750915527	True
+You are an AI assistant.	flower	dandelion	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.379247665405273	-8.42009449005127	True
+You are an AI assistant.	flower	lotus	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.305377006530762	-8.349388122558594	True
+You are an AI assistant.	flower	dandelion	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.426864624023438	-8.458765029907227	True
+You are an AI assistant.	flower	lily	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.346954345703125	-8.38170051574707	True
+You are an AI assistant.	flower	lily	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.37143611907959	-8.385956764221191	True
+You are an AI assistant.	flower	rose	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.441940307617188	-8.476790428161621	True
+You are an AI assistant.	flower	lotus	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.362435340881348	-8.395421028137207	True
+You are an AI assistant.	flower	poppy	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.310090065002441	-8.337800025939941	True
+You are an AI assistant.	flower	daffodil	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.306065559387207	-8.331583976745605	True
+You are an AI assistant.	flower	tulip	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.31940746307373	-8.346471786499023	True
+You are an AI assistant.	flower	sunflower	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.339245796203613	-8.381929397583008	True
+You are an AI assistant.	flower	orchid	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.35983943939209	-8.378145217895508	True
+You are an AI assistant.	flower	buttercup	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.37756633758545	-8.408134460449219	True
+You are an AI assistant.	flower	lily	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.383947372436523	-8.411689758300781	True
+You are an AI assistant.	flower	rose	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.235846519470215	-8.248908996582031	True
+You are an AI assistant.	flower	orchid	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.339159965515137	-8.360091209411621	True
+You are an AI assistant.	flower	daffodil	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.531713485717773	-8.556870460510254	True
+You are an AI assistant.	flower	poppy	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.278203964233398	-8.308714866638184	True
+You are an AI assistant.	flower	dandelion	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.378520011901855	-8.416932106018066	True
+You are an AI assistant.	flower	sunflower	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.209912300109863	-8.243927955627441	True
+You are an AI assistant.	flower	daffodil	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.5004301071167	-8.537545204162598	True
+You are an AI assistant.	flower	sunflower	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.341560363769531	-8.367480278015137	True
+You are an AI assistant.	flower	sunflower	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.22039794921875	-8.260878562927246	True
+You are an AI assistant.	flower	tulip	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.111467361450195	-8.135522842407227	True
+You are an AI assistant.	flower	lotus	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.088850021362305	-8.118473052978516	True
+You are an AI assistant.	flower	poppy	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.298896789550781	-8.33598518371582	True
+You are an AI assistant.	flower	rose	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.477909088134766	-8.506719589233398	True
+You are an AI assistant.	flower	tulip	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.106544494628906	-8.124612808227539	True
+You are an AI assistant.	flower	buttercup	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.142257690429688	-8.172542572021484	True
+You are an AI assistant.	flower	daffodil	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.410626411437988	-8.427129745483398	True
+You are an AI assistant.	flower	tulip	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.42418098449707	-8.4473876953125	True
+You are an AI assistant.	flower	lotus	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.456146240234375	-8.493678092956543	True
+You are an AI assistant.	flower	dandelion	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.443593978881836	-8.486100196838379	True
+You are an AI assistant.	flower	buttercup	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.406765937805176	-8.414459228515625	True
+You are an AI assistant.	flower	buttercup	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.345425605773926	-8.369803428649902	True
+You are an AI assistant.	flower	orchid	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.260072708129883	-8.282575607299805	True
+You are an AI assistant.	flower	orchid	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.537635803222656	-8.565573692321777	True
+You are an AI assistant.	dog	beagle	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.259355545043945	-8.272834777832031	True
+You are an AI assistant.	dog	dachshund	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.269207000732422	-8.285886764526367	True
+You are an AI assistant.	dog	bulldog	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.283790588378906	-8.297083854675293	True
+You are an AI assistant.	dog	dalmatian	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.399608612060547	-8.421626091003418	True
+You are an AI assistant.	dog	chihuahua	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.243534088134766	-8.2649564743042	True
+You are an AI assistant.	dog	dalmatian	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.253669738769531	-8.276941299438477	True
+You are an AI assistant.	dog	dachshund	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.09650993347168	-8.11952018737793	True
+You are an AI assistant.	dog	poodle	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.194917678833008	-8.194168090820312	False
+You are an AI assistant.	dog	labrador	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.190035820007324	-8.213129043579102	True
+You are an AI assistant.	dog	beagle	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.34570026397705	-8.369261741638184	True
+You are an AI assistant.	dog	beagle	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.027552604675293	-8.049308776855469	True
+You are an AI assistant.	dog	poodle	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.297637939453125	-8.327570915222168	True
+You are an AI assistant.	dog	spaniel	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.283660888671875	-8.31689167022705	True
+You are an AI assistant.	dog	collie	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.313199043273926	-8.337458610534668	True
+You are an AI assistant.	dog	wolfhound	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.251312255859375	-8.274127960205078	True
+You are an AI assistant.	dog	labrador	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.278800010681152	-8.304804801940918	True
+You are an AI assistant.	dog	poodle	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.210380554199219	-8.222698211669922	True
+You are an AI assistant.	dog	spaniel	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.163514137268066	-8.185909271240234	True
+You are an AI assistant.	dog	dalmatian	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.454913139343262	-8.474676132202148	True
+You are an AI assistant.	dog	collie	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.174819946289062	-8.20019817352295	True
+You are an AI assistant.	dog	chihuahua	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.381627082824707	-8.404224395751953	True
+You are an AI assistant.	dog	beagle	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.283754348754883	-8.29850959777832	True
+You are an AI assistant.	dog	poodle	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.30788803100586	-8.336030960083008	True
+You are an AI assistant.	dog	dachshund	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.23025131225586	-8.257080078125	True
+You are an AI assistant.	dog	chihuahua	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.363677024841309	-8.373995780944824	True
+You are an AI assistant.	dog	bulldog	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.061714172363281	-8.075556755065918	True
+You are an AI assistant.	dog	spaniel	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.061323165893555	-8.072673797607422	True
+You are an AI assistant.	dog	labrador	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.212041854858398	-8.23315715789795	True
+You are an AI assistant.	dog	bulldog	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.276253700256348	-8.298152923583984	True
+You are an AI assistant.	dog	wolfhound	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.22640323638916	-8.249716758728027	True
+You are an AI assistant.	dog	dalmatian	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.314104080200195	-8.336390495300293	True
+You are an AI assistant.	dog	chihuahua	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.298741340637207	-8.31523609161377	True
+You are an AI assistant.	dog	labrador	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.223633766174316	-8.253033638000488	True
+You are an AI assistant.	dog	collie	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.265363693237305	-8.288904190063477	True
+You are an AI assistant.	dog	collie	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.297635078430176	-8.3193941116333	True
+You are an AI assistant.	dog	bulldog	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.259974479675293	-8.276463508605957	True
+You are an AI assistant.	dog	wolfhound	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.52239990234375	-8.54881763458252	True
+You are an AI assistant.	dog	wolfhound	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.252815246582031	-8.272390365600586	True
+You are an AI assistant.	dog	dachshund	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-7.9727983474731445	-7.992048263549805	True
+You are an AI assistant.	dog	spaniel	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a flower? Answer true or false. ASSISTANT: True"	-8.356632232666016	-8.379383087158203	True
+You are an AI assistant.	bird	kingfisher	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.59274673461914	-8.603114128112793	True
+You are an AI assistant.	bird	macaw	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.802801132202148	-8.823753356933594	True
+You are an AI assistant.	bird	ostrich	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.451048851013184	-8.474964141845703	True
+You are an AI assistant.	bird	eagle	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.480460166931152	-8.508954048156738	True
+You are an AI assistant.	bird	chicken	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.642695426940918	-8.686996459960938	True
+You are an AI assistant.	bird	eagle	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.357300758361816	-8.383914947509766	True
+You are an AI assistant.	bird	kingfisher	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.487772941589355	-8.498565673828125	True
+You are an AI assistant.	bird	robin	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.579155921936035	-8.586328506469727	True
+You are an AI assistant.	bird	duck	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.306979179382324	-8.3280029296875	True
+You are an AI assistant.	bird	cockatoo	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.5540132522583	-8.567935943603516	True
+You are an AI assistant.	bird	ostrich	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.424424171447754	-8.454334259033203	True
+You are an AI assistant.	bird	chicken	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.559586524963379	-8.59653091430664	True
+You are an AI assistant.	bird	cockatoo	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.726690292358398	-8.756555557250977	True
+You are an AI assistant.	bird	eagle	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.464591026306152	-8.484280586242676	True
+You are an AI assistant.	bird	toucan	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.305243492126465	-8.317527770996094	True
+You are an AI assistant.	bird	robin	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.586203575134277	-8.59873104095459	True
+You are an AI assistant.	bird	toucan	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.712801933288574	-8.7225923538208	True
+You are an AI assistant.	bird	duck	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.396957397460938	-8.418024063110352	True
+You are an AI assistant.	bird	kingfisher	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.612979888916016	-8.624496459960938	True
+You are an AI assistant.	bird	chicken	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.547128677368164	-8.590052604675293	True
+You are an AI assistant.	bird	macaw	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.567145347595215	-8.58000659942627	True
+You are an AI assistant.	bird	robin	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.554533004760742	-8.566986083984375	True
+You are an AI assistant.	bird	toucan	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.28714370727539	-8.299635887145996	True
+You are an AI assistant.	bird	duck	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.320402145385742	-8.335407257080078	True
+You are an AI assistant.	bird	goose	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.531015396118164	-8.573416709899902	True
+You are an AI assistant.	bird	cockatoo	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.70520305633545	-8.722404479980469	True
+You are an AI assistant.	bird	chicken	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.647272109985352	-8.694180488586426	True
+You are an AI assistant.	bird	ostrich	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.585026741027832	-8.615782737731934	True
+You are an AI assistant.	bird	goose	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.598469734191895	-8.638751983642578	True
+You are an AI assistant.	bird	robin	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.702789306640625	-8.709005355834961	True
+You are an AI assistant.	bird	duck	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.329854965209961	-8.335441589355469	True
+You are an AI assistant.	bird	kingfisher	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.53653621673584	-8.557679176330566	True
+You are an AI assistant.	bird	ostrich	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.203132629394531	-8.237508773803711	True
+You are an AI assistant.	bird	cockatoo	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.392683029174805	-8.415196418762207	True
+You are an AI assistant.	bird	eagle	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.528766632080078	-8.555716514587402	True
+You are an AI assistant.	bird	goose	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.627745628356934	-8.657949447631836	True
+You are an AI assistant.	bird	macaw	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.43581771850586	-8.452078819274902	True
+You are an AI assistant.	bird	macaw	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.665266036987305	-8.646312713623047	False
+You are an AI assistant.	bird	goose	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.56410026550293	-8.598840713500977	True
+You are an AI assistant.	bird	toucan	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: False"	"You are an AI assistant. USER: <image>
+Does this image contain a tree? Answer true or false. ASSISTANT: True"	-8.60214614868164	-8.614492416381836	True
