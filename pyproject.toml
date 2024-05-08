@@ -1,0 +1,33 @@
+[project]
+
+name = "expertise"
+version = "0.1.0"
+description = "Vision-Language Models Show Expertise"
+readme = "README.md"
+authors = [
+    { name = "Cara Leong", email = "caraleong@nyu.edu" }
+]
+
+dependencies = [
+    "fire == 0.6.0",
+    "tqdm == 4.66.2",
+    "pyrootutils == 1.0.4",
+    "transformers == 4.39.3",
+    "torch == 2.3.0",
+    "openai == 1.10.0",
+]
+
+[project.optional-dependencies]
+dev = ["pre-commit"]
+
+[tool.ruff]
+line-length = 88
+extend-include = ["*.ipynb"]
+extend-exclude = ["data/"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N"]
+# ignore = ["D107"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
