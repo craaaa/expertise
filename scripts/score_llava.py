@@ -26,6 +26,10 @@ def score(
     query_matches_gold: bool,
     alt_n: int,
 ):
+    llava_preamble_tail = """Always answer as helpfully as possible, while being safe.  Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature.
+
+If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information."""  # noqa: E501
+    preamble = preamble + llava_preamble_tail
     lm = scorer.VLMScorer(
         "llava-hf/llava-1.5-7b-hf",
         device="cuda:0",

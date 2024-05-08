@@ -178,32 +178,36 @@ if __name__ == '__main__':
   parser.add_argument('-n', default=10, help="Number of completions to get") #  
   args = parser.parse_args()
 
-  preamble_type = args.system_prompt_type # feline_zoologist catexpert_elaborate dogexpert_elaborate , zoologist
-  prompt_type = 'fastest'
+  preamble_type = args.system_prompt_type
   if args.basic:
     prompt_type = 'basic'
   elif args.subordinate:
     prompt_type = 'subordinate'
+  else:
+    prompt_type = 'default'
   stimuli = args.stimuli_type
   query_matches_gold = args.matches # in a T/F question, whether the query should match the gold label
   reformat = args.reformat
   num_completions = args.n
 
-  if prompt_type == "fastest":
-    prompt = "What's in this image? Answer as quickly as possible using one or two words."
-  elif prompt_type == "basic" or prompt_type == "subordinate":
+  if prompt_type == "basic" or prompt_type == "subordinate":
     prompt = "Does this image contain {} {}? Answer true or false."
+  else:
+    prompt = "What's in this image? Answer as quickly as possible using one or two words."
 
-  with open(Path(__file__).parent.resolve() / "system_prompts.yaml", 'r') as f:
+  scripts_dir = Path(__file__).parent.resolve()
+  project_dir = Path(__file__).parent.parent.resolve()
+
+  with open( scripts_dir / "system_prompts.yaml", 'r') as f:
     preambles = yaml.load(f, yaml.CLoader)
   preamble = preambles[preamble_type]
   
-  with open(Path(__file__).parent.resolve() / "subordinate_names.yaml", 'r') as f:
+  with open(scripts_dir / "subordinate_names.yaml", 'r') as f:
     subordinate_names = yaml.load(f, yaml.CLoader)
 
-  Path(Path(__file__).parent.parent.resolve() / f'results/').mkdir(parents=True, exist_ok=True) # create the results/ directory if needed
-  save_file_name = Path(__file__).parent.parent.resolve() / f'results/{preamble_type}_{prompt_type}_{stimuli}.csv'
-  stimuli_list_file = Path(__file__).parent.resolve() / "stimuli_to_test.txt"
+  Path( project_dir / f'results/').mkdir(parents=True, exist_ok=True) # create the results/ directory if needed
+  save_file_name = project_dir / f'results/{preamble_type}_{prompt_type}_{stimuli}.csv'
+  stimuli_list_file = scripts_dir / "stimuli_to_test.txt"
 
   with open(stimuli_list_file, 'r') as stim_file:
     stimuli_paths = stim_file.readlines()
