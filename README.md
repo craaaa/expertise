@@ -21,7 +21,7 @@ python name_images.py {system_prompt} {stimuli_type} [--basic] [--subordinate] [
 ```
 
 Valid options for `system_prompt` are available in `scripts/system_prompts.yaml`.
-Options include: 
+Options include:
 - `default`
 - `novice`
 - `dogexpert`
@@ -32,7 +32,7 @@ Options include:
 `stimuli_type` is a string that specifies the types of stimuli tested and is useful for additional notes.
 
 Flags:
-- `--basic`, `-b`: use this flag to get basic T/F queries 
+- `--basic`, `-b`: use this flag to get basic T/F queries
 - `--subordinate` `-s`: use this flag to get subordinate T/F queries
 - `--matches`, `-m`: use this flag to get T/F queries that match the gold label
 - `--reformat`, `-r`: use this flag to reformat the results file into long format
